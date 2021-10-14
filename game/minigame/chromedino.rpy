@@ -5,9 +5,7 @@ init python:
     import random
     import threading
 
-    import renpygame
-
-    renpygame.init()
+    set_mode()
 
     # Global Constants
 
